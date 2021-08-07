@@ -4,8 +4,8 @@ The aim is to create an App to help people working in companies understand their
 
 ## **Steps-**
 
-Analyse the mental health data taken from Kaggle.
+- Analyse the mental health data taken from Kaggle.
 
-Predict the best model.
+- Predict the best model.
 
-Deploy the model in Flutter.
+- Deploy the model in Flutter.
